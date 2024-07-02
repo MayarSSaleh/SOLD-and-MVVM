@@ -1,0 +1,6 @@
+framework module Pods_NewsNetworkApp_Day6_NewsNetworkApp_Day6UITests {
+  umbrella header "Pods-NewsNetworkApp_Day6-NewsNetworkApp_Day6UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
